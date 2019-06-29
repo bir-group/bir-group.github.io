@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-iborekyt.wixsite.com	TRUE	/mysite-1	FALSE	1999999999	svSession	bc619ea70f6bc2850047711c0045ce45c091f45e0e7afa10ea9518e283592eff5f69808bcb8586d9520c76578b67cd0f1e60994d53964e647acf431e4f798bcd8072db989fcb2c77ff5759e6914f7c70212a340a517a080d504d7586f82abf4f
-iborekyt.wixsite.com	TRUE	/mysite-1	FALSE	1999999999	TS01380bd3	0141ccf485a1e3b55993f321f047e1b970cc504d103e3164a064fbab3e85b5759f47b8000862cd7c7117d40a80deb29b910c8fe62b
-iborekyt.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1561760818|mEaZaI5VTAmv
-iborekyt.wixsite.com	TRUE	/	FALSE	1999999999	hs	1346727011
-iborekyt.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache,desc=miss"
-.wixsite.com	TRUE	/	FALSE	1999999999	TS016e3841	0141ccf485a1e3b55993f321f047e1b970cc504d103e3164a064fbab3e85b5759f47b8000862cd7c7117d40a80deb29b910c8fe62b
-
